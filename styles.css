@@ -12,9 +12,15 @@ body {
 
 .assignment img{
     width: 200px;
-    padding: 10px;
+    border: 5px solid #2F4F4F;
+    margin-right: 20px
 }
 h1 {
     color:darkgreen;
     text-align:center;
+}
+
+a {
+    text-decoration:none;
+    color:#8FBC8F;
 }
