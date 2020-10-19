@@ -7,20 +7,28 @@ body {
     display: flex ;
     padding: 10px;
     margin: 10px;
-    background: darkolivegreen
+    margin-bottom: 30px;
+    background: darkolivegreen;
+    border-radius: 5px; 
+    box-shadow: 5px 6px teal;
 }
 
 .assignment img{
     width: 200px;
     border: 5px solid #2F4F4F;
-    margin-right: 20px
+    margin-right: 20px;
+    border-radius: 5px;
 }
 h1 {
-    color:darkgreen;
+    color:teal;
     text-align:center;
 }
 
 a {
     text-decoration:none;
     color:#8FBC8F;
+}
+
+.assignment a:hover{
+    color:teal;
 }
